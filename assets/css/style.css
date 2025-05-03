@@ -67,11 +67,6 @@ body {
 	padding: 5px;
 }
 
-.akkoma, .bandwagon, .bonfire, .bookwyrm, .castopod, .diaspora, .firefish, .friendica, .funkwhale, .gotosocial, .gnusocial, .hubzilla, .iceshrimp, .kbin, .lemmy, .lobsters, .loops, .mastodon, .misskey, .mitra, .mobilizon, .neodb, .owncasts, .peertube, .piefed, .pinetta, .pixelfed, .pleroma, .plume, .sharkey, .socialhome, .smithereen, .vidzy, .vernissage, .wafrn, .writefreely, .bsky, .microblog img {
-	max-width: 100%;
-	text-align: center;
-}
-
 .footer {
 	padding: 10px;
 	text-align: center;
