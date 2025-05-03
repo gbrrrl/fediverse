@@ -3,6 +3,8 @@
 }
 
 body {
+	background-color: #000;
+	background-image: url('');
 	font-family: Inconsolata, Courier, monospace;
 	margin: 0;
 }
@@ -57,20 +59,12 @@ body {
 	flex-wrap: wrap;
 }
 
-.side {
-	-ms-flex: 30%;
-	flex: 30%;
+.akkoma, .bandwagon, .bonfire, .bookwyrm, .castopod, .diaspora, .firefish, .friendica, .funkwhale, .gotosocial, .gnusocial, .hubzilla, .iceshrimp, .kbin, .lemmy, .lobsters, .loops, .mastodon, .misskey, .mitra, .mobilizon, .neodb, .owncasts, .peertube, .piefed, .pinetta, .pixelfed, .pleroma, .plume, .sharkey, .socialhome, .smithereen, .vidzy, .vernissage, .wafrn, .writefreely, .bsky, .microblog {
+	-ms-flex: 10%;
+	flex: 10%;
 	color: #fff;
-	background-color: #5e00ff;
-	padding: 20px;
-}
-
-.main {   
-	-ms-flex: 70%;
-	flex: 70%;
-	color: #fff;
-	background-color: #000;
-	padding: 20px;
+	background-color: transparent;
+	padding: 5px;
 }
 
 .footer {
